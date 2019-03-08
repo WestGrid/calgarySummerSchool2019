@@ -31,7 +31,9 @@ You can download the course materials as a ZIP file (will be available closer to
 
 **Level**: intermediate
 
-**Prerequisites**: None
+**Prerequisites**: Taking the self-paced MATLAB Onramp course (2 hours) is recommended. The course can be
+<a href="https://www.mathworks.com/learn/tutorials/matlab-onramp.html" target="_blank">accessed for
+free</a>.
 
 **Laptop software**: None
 

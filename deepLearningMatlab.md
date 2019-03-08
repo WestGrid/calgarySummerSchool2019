@@ -37,4 +37,5 @@ In this hands-on workshop, you will write code and use MATLAB to:
 <a href="https://www.mathworks.com/learn/tutorials/matlab-onramp.html" target="_blank">accessed for
 free</a>.
 
-**Laptop software**: All attendees will need to bring laptops with wireless access.
+**Laptop software**: All attendees will need to bring laptops with wireless access. For the hands-on, we
+will be using MATLAB Online hosted on MathWorks site.
