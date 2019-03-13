@@ -20,7 +20,7 @@ In this course we will overview the C and C++ programming languages and see how 
 We will look at how C++ can be a good addition to your Python skill set and 
 and why it is an especially good compimentary copmpiled language for Python.
 
-**Target audience**: general. 
+**Target audience**: general 
 
 <!-- **Course plan**: -->
 
