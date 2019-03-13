@@ -4,9 +4,9 @@ title: Speeding Up Python Code with C/C++
 nav: false
 ---
 
-# speeding up python code with c/c++
+# Speeding Up Python Code with C/C++
 
-**instructor**: Dmitri Rozmanov (University of Calgary, Research Computing Services)
+**Instructor**: Dmitri Rozmanov (University of Calgary, Research Computing Services)
 
 Python is a popular programming language in the scientific community. A wide
 variety of available built-in and external libraries makes it an excellent
