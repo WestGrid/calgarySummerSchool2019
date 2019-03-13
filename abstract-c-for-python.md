@@ -4,9 +4,9 @@ title: Introduction to C for Python Programmers
 nav: false
 ---
 
-# introduction to c for python programmers
+# Introduction to C for Python Programmers
 
-**instructor**: Dmitri Rozmanov (University of Calgary, Research Computing Services)
+**Instructor**: Dmitri Rozmanov (University of Calgary, Research Computing Services)
 
 It is a good idea for any researcher who writes programming code, 
 to know a least two programming languages, 
