@@ -8,7 +8,7 @@ nav: true
 {% capture int %}![intermediate](images/intermediate.png){% endcapture %}
 {% capture exp %}![expert](images/expert.png){% endcapture %}
 
-| date and time | Stream 1 (Lecture Theatre) | Stream 2 (Smaller Classroom) | Machine Learning |
+| date and time | ENG 024 (Stream 1) | ENG 124/130 (Stream 2) | ENC 201 (Machine Learning) |
 | ------------- | --------------- | ----------------- | ----------------- |
 | Mon **27th** morning 9:00am-12:00pm | [Bash Scripting and Tools](bash) (with intro to ARC) by Alex Razoumov {{beg}} | | • 9am-10:15am Introduction to Python by ??? <br> • 10:30am-12pm Regression Classifiers with Python by ??? |
 | Mon **27th** afternoon 1:00pm-4:00pm | [Working with Text](working_with_text) by Ian Percel {{beg}} | [Introduction to Apache Spark](intro_to_spark) by Dave Schulz {{beg}} | Nearest Neighbors in Python with scikit-learn by ??? |
