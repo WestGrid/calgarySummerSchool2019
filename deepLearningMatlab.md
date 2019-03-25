@@ -8,7 +8,7 @@ nav: false
 
 <!-- original title: Tensor Flow for CNN (Deep Learning) in MATLAB by MathWorks -->
 
-**Instructor**: Reece Teramoto
+**Instructor**: Reece Teramoto (MathWorks)
 
 Deep learning achieves human-like accuracy for many tasks considered algorithmically unsolvable with
 traditional machine learning. It is frequently used to develop applications such as face recognition,

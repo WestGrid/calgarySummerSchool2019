@@ -23,5 +23,3 @@ nav: true
 &nbsp;
 
 <!-- <strike>Python scripting for Scientists</strike> -->
-
- (MathWorks)
