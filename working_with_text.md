@@ -24,5 +24,5 @@ This course will begin with an introduction to the essential theory of text pars
 
 **Laptop software**: All attendees will need to bring their laptops with wireless access and with a
 remote SSH client installed (on Windows laptops we recommend <a
-href="https://mobaxterm.mobatek.net/download.html" target="_blank">the free edition</a>; on Mac and Linux
+href="https://mobaxterm.mobatek.net/download.html" target="_blank">the free edition of MobaXterm</a>; on Mac and Linux
 laptops no need to install anything).
