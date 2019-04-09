@@ -8,7 +8,7 @@ nav: true
 {% capture int %}![intermediate](images/intermediate.png){% endcapture %}
 {% capture exp %}![expert](images/expert.png){% endcapture %}
 
-Please click on the session title to get detailed information for each course: abstract, prerequisites,
+Please click on each session title to get detailed information for each course: abstract, prerequisites,
 software requirements (if any).
 
 | date and time | ENG 024 (Stream 1) | ENG 124/130 (Stream 2) | ENC 201 (Machine Learning) |
