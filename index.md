@@ -8,7 +8,7 @@ layout: default
 
 ## Monday May 27th to Thursday May 30th, 2019
 
-This June, [WestGrid](https://www.westgrid.ca) is bringing its four-day Research Computing Summer School
+This May, [WestGrid](https://www.westgrid.ca) is bringing its four-day Research Computing Summer School
 to the University of Calgary. Courses will explore introductory and advanced topics in high performance
 computing and parallel programming, machine learning, research computing with Python / R / MATLAB / C /
 C++ / Chapel, and scientific visualization.
