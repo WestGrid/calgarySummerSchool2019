@@ -8,10 +8,11 @@ nav: true
 {% capture int %}![intermediate](images/intermediate.png){% endcapture %}
 {% capture exp %}![expert](images/expert.png){% endcapture %}
 
-Please click on each session title to get detailed information for each course: abstract, prerequisites,
-software requirements (if any).
+All sessions will take place in Engineering Block G (ENG) and Engineering Block B (ENB). Please click on
+each session title to get detailed information for that course: abstract, prerequisites, software
+requirements (if any).
 
-| date and time | ENG 024 (Stream 1) | ENG 124/130 (Stream 2) | ENC 201 (Machine Learning) |
+| date and time | ENG 024 (Stream 1) | ENG 124/130 (Stream 2) | ENB 201 (Machine Learning) |
 | ------------- | --------------- | ----------------- | ----------------- |
 | Mon **27th** morning 9:00am-12:00pm | [Bash Scripting and Tools](bash) (with intro to ARC) by Alex Razoumov {{beg}} | | • 9am-10:15am Introduction to Python <br> • 10:30am-12pm Regression Classifiers with Python |
 | Mon **27th** afternoon 1:00pm-4:00pm | [Working with Text](working_with_text) by Ian Percel {{beg}} | [Introduction to Apache Spark](intro_to_spark) by Dave Schulz {{beg}} | Nearest Neighbors in Python with scikit-learn |
