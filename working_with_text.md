@@ -8,7 +8,7 @@ nav: false
 
 **Instructor**: Ian Percel (Research Computing Services)
 
-An introduction to basic theory and practical methods for searching text data for complex patterns as well as normalizing text data in preparation for analysis. This course primarily uses Python and the re library to introduce these ideas but they apply with minor modification to many text processing tools.
+An introduction to basic theory and practical methods for searching text data for complex patterns as well as normalizing text data in preparation for analysis. This course will introduce Regular Expressions in Python using the re module but similar syntax can be used in many other languages.
 
 This course will begin with an introduction to the essential theory of text parsing: text as character arrays, scanning, backtracking, and parse trees. These ideas will provide the context for understanding how we describe patterns in text. By drawing on these ideas, we will be able to introduce the key elements of regular expressions. We will discuss anchors, character classes, grouping, quantifiers, and look-arounds. Regular expressions will be illustrated with practical pattern matching problems on realistic text data. Finally, we will build on our initial examples to develop a custom set of functions for cleaning and normalizing a complex data set. We will also discuss the consequences and limitations of this approach to text normalization.    
 
