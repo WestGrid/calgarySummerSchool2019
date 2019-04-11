@@ -14,7 +14,7 @@ requirements (if any).
 
 | date and time | ENG 024 (Stream 1) | ENG 124/130 (Stream 2) | ENB 201 (Machine Learning) |
 | ------------- | --------------- | ----------------- | ----------------- |
-| Mon **27th** morning 9:00am-12:00pm | [Bash Scripting and Tools](bash) (with intro to ARC) by Alex Razoumov {{beg}} | | • 9am-10:15am Introduction to Python <br> • 10:30am-12pm Regression Classifiers with Python |
+| Mon **27th** morning 9:00am-12:00pm | | [Bash Scripting and Tools](bash) (with intro to ARC) by Alex Razoumov {{beg}} | • 9am-10:15am Introduction to Python <br> • 10:30am-12pm Regression Classifiers with Python |
 | Mon **27th** afternoon 1:00pm-4:00pm | [Working with Text](working_with_text) by Ian Percel {{beg}} | [Introduction to Apache Spark](intro_to_spark) by Dave Schulz {{beg}} | Nearest Neighbors in Python with scikit-learn |
 | Tue **28th** morning 9:00am-12:00pm | [Introduction to HPC (part 1)](introHPC) by Alex Razoumov {{beg}} | [Introduction to C (and pointers) for Python Programmers](abstract-c-for-python) by Dmitri Rozmanov {{beg}} | Machine Learning by ATB Financial |
 | Tue **28th** afternoon 1:00pm-4:00pm | [Introduction to HPC (part 2)](introHPC) by Alex Razoumov {{beg}} | | Machine Learning by ATB Financial |
