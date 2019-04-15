@@ -6,7 +6,7 @@ nav: false
 
 # R in HPC Environment
 
-**Instructor**: Mark Lowerison (Clinical Neurosciences)
+**Instructor**: Mark Lowerison (Community Health Sciences)
 
 Using R and a variety of other technologies, I plan to demonstrate a multi-agent parameter search simulation project. We will be looking at differences in performance of two randomization strategies confounding mitigation in clinical trial settings.
 
