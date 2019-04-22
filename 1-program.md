@@ -21,7 +21,7 @@ software requirements (if any).
 | Wed **29th** morning 9:00am-12:00pm | [Scientific Visualization (part 1)](visualization) by Alex Razoumov {{beg}} | [Selected Python libraries for Researchers](python_libraries_research) by Ian Percel {{int}} | • 9am-10:15am Artificial Neural Networks in R <br> • 10:30am-12pm ANFIS with R |
 | Wed **29th** afternoon 1:00pm-4:00pm | [Scientific Visualization (part 2)](visualization) by Alex Razoumov {{beg}} | [Speeding up Python code with C/C++](abstract-speedup-python) by Dmitri Rozmanov {{int}} | [Practical Applications of Deep Learning with MATLAB](deepLearningMatlab) by Reece Teramoto {{beg}} |
 | Thu **30th** morning 9:00am-12:00pm | [Chapel parallel programming](chapel) by Alex Razoumov {{int}}{{exp}}| [R in HPC environment](r_in_hpc) by Mark Lowerison {{int}} {{exp}} | • 9am-10:15am [K-means Clustering in Python](kmeansClustering) {{int}} <br> • 10:30am-12pm [Principal Component Analysis for Feature Selection](principalComponentAnalysis) {{int}} |
-| Thu **30th** afternoon 1:00pm-4:00pm | [MATLAB Parallel Computing](parallelMatlab) by Raymond Norris {{int}} | [Working with spatial data](working_with_spatial) by Ian Percel {{exp}} | Automated Feature Selection with IBM |
+| Thu **30th** afternoon 1:00pm-4:00pm | [MATLAB Parallel Computing](parallelMatlab) by Sam Marshalik {{beg}} | [Working with spatial data](working_with_spatial) by Ian Percel {{exp}} | Automated Feature Selection with IBM |
 {:.mbtablestyle}
 
 &nbsp;

@@ -6,9 +6,9 @@ nav: false
 
 # MATLAB Parallel Computing Hands-On Workshop
 
-**Instructor**: Raymond Norris (MathWorks)
+**Instructor**: Sam Marshalik (MathWorks)
 
-**Helper**: TBD (MathWorks)
+**Helper**: Reece Teramoto (MathWorks)
 
 During this hands-on workshop, MathWorks engineers will introduce you to parallel and distributed
 computing in MATLAB with a focus on speeding up your application code and offloading compute. By working
@@ -29,7 +29,7 @@ You can download the course materials as a ZIP file (will be available closer to
 
 **Duration**: 3 hours
 
-**Level**: intermediate
+**Level**: beginner
 
 **Prerequisites**: Taking the self-paced MATLAB Onramp course (2 hours) is recommended. The course can be
 <a href="https://www.mathworks.com/learn/tutorials/matlab-onramp.html" target="_blank">accessed for
