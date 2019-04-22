@@ -8,10 +8,12 @@ nav: true
 
 Morning sessions will be 9:00am-12:00pm. Afternoon sessions will be 1:00pm-4:00pm. The sessions will take
 place in rooms *(to be filled in)* -- for details please see the [program]({{ site.baseurl
-}}/1-program.html).
+}}/1-program.html). These pages will continue to be updated as details are confirmed for room
+assignments, session times and detailed course information.
 
-These pages will continue to be updated as details are confirmed for room assignments, session times and
-detailed course information.
+Please note that most, even beginner's sessions assume a working knowledge of Linux command line. On Day
+1 in the morning we will teach an introduction to Linux command line ("Bash Scripting and Tools") for
+absolute beginners. If you are new to Linux, we highly recommend it before attending any other sessions.
 
 **Important**: All attendees must bring their laptops and power cords (if your battery does not last all
 day). Don't forget to check details and prerequisites for each course, including software requirements
