@@ -35,7 +35,10 @@ You can download the course materials as a ZIP file (will be available closer to
 <a href="https://www.mathworks.com/learn/tutorials/matlab-onramp.html" target="_blank">accessed for
 free</a>.
 
-**Laptop software**: None
+**Laptop software**:
+- MATLAB R2016a or newer
+- Parallel Computing Toolbox
+- SSH client
 
 <!-- ideal cluster size for this course: dedicated 4-5 nodes with 32 cores/node and 2 GB/core; number of
 cores per node is not particularly important, as long as there are ~80-100 cores in total -->
