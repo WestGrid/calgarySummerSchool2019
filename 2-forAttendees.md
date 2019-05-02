@@ -24,13 +24,18 @@ courses.
 day). Don't forget to check details and prerequisites for each course, including software requirements
 for your laptop under **Laptop software**. Please install the required software before coming to class.
 
-## Wi-Fi access
+## WiFi access
 
-Before the start of the summer school **all eligible attendees must obtain** their Eduroam accounts
-through their home institutions. You will need online access to log in to remote systems, complete
-hands-on exercises, view documentation, etc., so please make sure you can sign in to the campus WiFi. If
-you are not sure how to obtain it, please contact the local IT department at your institution. There will
-also be self-serve WiFi accounts.
+You will need online access to log in to remote systems, complete hands-on exercises, view documentation,
+etc., so please make sure you can sign in to the campus WiFi. There are several options:
+
+- All UofC students and staff should have access to the local WiFi at the entire campus. Please check
+  that it works for you before coming to classes.
+- The Eduroam network is free to all academic attendees, whether from the UofC or other institutions. To
+  use it, you **must obtain your Eduroam account** through your home institution before the start of the
+  summer school. If you are not sure how to obtain it, please contact the local IT department at your
+  institution.
+-  There is also self-serve public WiFi available that you can register for once you are in range.
 
 ## Cluster accounts
 
