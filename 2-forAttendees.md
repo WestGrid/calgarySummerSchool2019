@@ -35,7 +35,7 @@ etc., so please make sure you can sign in to the campus WiFi. There are several 
   use it, you **must obtain your Eduroam account** through your home institution before the start of the
   summer school. If you are not sure how to obtain it, please contact the local IT department at your
   institution.
--  There is also self-serve public WiFi available that you can register for once you are in range.
+- There is also self-serve public WiFi available that you can register for once you are in range.
 
 ## Cluster accounts
 
