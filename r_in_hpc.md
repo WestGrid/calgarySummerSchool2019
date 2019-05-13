@@ -14,17 +14,11 @@ The technical approach:
 
 1. Generate a simulation space/parameter set to be analyzed.
 2. Write a simulation agent to consume parameter sets.
-
-	a. This agent will fetch a parameter set.
-	
-	b. Generate a synthetic data set.
-	
-	c. Model this dataset and assess confounding between a key covariate and a treatment effect.
-	
-	d. Extract results from the R model output and push them back to a results store.
-	
+   1. This agent will fetch a parameter set.
+   1. Generate a synthetic data set.
+   1. Model this dataset and assess confounding between a key covariate and a treatment effect.
+   1. Extract results from the R model output and push them back to a results store.	
 3. Write a minimal dashboard to monitor the simulation under way and summarize some results as they progress.
- 
 
 **Target audience**: Attendees will walk away with working code samples and understanding of how to leverage distributed computing infrastructure to support containerized development of multi-agent simulation projects in R (and friends).
 
