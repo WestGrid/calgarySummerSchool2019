@@ -6,7 +6,7 @@ nav: false
 
 # K-means Clustering in Python
 
-**Instructor**: TBC
+**Instructor**: Yasaman Amannejad (Mount Royal University)
 
 This session will introduce K-means clusters in Python with hands-on exercises and examples. Examples
 will include industry datasets.

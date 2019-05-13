@@ -6,7 +6,7 @@ nav: false
 
 # Principal Component Analysis (PCA) for Feature Selection in Python
 
-**Instructor**: TBC
+**Instructor**: Yasaman Amannejad (Mount Royal University)
 
 This session will introduce principle component analysis (PCA) and will include hands-on examples to
 identify key features in datasets prior to application of other regression techniques.
