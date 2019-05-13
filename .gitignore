@@ -4,7 +4,7 @@ _site
 *~
 .DS_Store
 evaluation.csv
-hidden
+hidden*
 ganttChart.png
 UCalgary-logo-2019.jpg
 UofC-WGSummerSchool-May2019.jpg
