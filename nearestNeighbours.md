@@ -6,7 +6,7 @@ nav: false
 
 # Nearest Neighbours in Python with scikit-learn
 
-**Instructor**: TBC
+**Instructor**: Jean Auriol (Chemical and Petroleum Engineering, UofC)
 
 This session will build upon the previous session and will be an in-depth hands-on exploration of Nearest
 Neighbours (and other classifiers) in Python. A majority of the session will involve application of the
