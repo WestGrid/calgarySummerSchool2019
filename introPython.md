@@ -6,7 +6,7 @@ nav: false
 
 # Introduction to Python
 
-**Instructor**: TBC
+**Instructor**: Abed Sarhan
 
 This session will be a hands-on introduction to the Jupyter live coding environment for Python. We will
 cover basic concepts in Python including statements, variables, arrays (1 and 2D), functions, libraries

@@ -6,7 +6,7 @@ nav: false
 
 # Regression Classifiers with Python
 
-**Instructor**: TBC
+**Instructor**: Abed Sarhan
 
 This session will build upon the previous session and will introduce the scikit machine learning library
 in Python. The session will be primarily hands on with basic examples of regression.
