@@ -55,25 +55,26 @@ A training VM has many advantages:
 Please note that these training clusters does not have GPUs. If you need to run demos and/or hands-on
 exercises on GPUs, you can use the production systems Cedar and Graham.
 
-If you want to set up your own cluster, please contact Alex Razoumov well before the school.
+If you want to set up your own cluster, please contact alex dot razoumov at westgrid dot ca well before
+the school.
 
 ## Course requirements
 
-1. All courses must have hands-on exercises for the attendees.
-1. Whenever possible, courses must show examples on our training cluster. For example, when demonstrating
-   a workflow in a programming language, show the entire process (writing code, compiling it, and running
-   it in a Slurm job) on the cluster, not just inside the IDE on your laptop.
-  - at the minimum, please show some examples on the cluster
-  - if applicable to your course, demonstrate scaling up to large problem sizes and many cores/nodes
+All courses must have hands-on exercises for the attendees. Whenever possible, courses must show examples
+in a proper HPC environment. For example, when demonstrating a workflow in a programming language, show
+the entire process (writing code, compiling it, and running it in a Slurm job) on the cluster, not just
+inside the IDE on your laptop. If applicable to your course, please demonstrate scaling up to large
+problem sizes and many cores/nodes.
 
-If you need any help in porting your workflow to the training cluster, please let the summer school
-organizers know early on.
+If you need any help in porting your workflow to an HPC system, please let the summer school organizers
+know early on.
 
 ## Please send to us
 
 1. your approximate course syllabus (you can always iterate on it later),
 1. any information you would like to pass to attendees: what software they need to install on their
-   laptop, prerequisites for this course, the level of difficulty (beginner / intermediate / expert), and
+   laptop, prerequisites for this course, the level of difficulty (beginner / intermediate / expert), any
+   external links, and
 1. if using significant cluster resources, what hardware configuration you need per each student, e.g.,
    (2 MPI tasks) x (3 cores per task)
 
