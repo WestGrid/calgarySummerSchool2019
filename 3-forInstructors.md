@@ -7,26 +7,31 @@ nav: true
 # Instructor information
 
 We highly encourage all instructors to show demos and offer hands-on exercises on HPC systems, whether
-real production or simulated clusters inside a VM. Please prepare your setup well before the school
-begins: it is your own responsibility to make sure that in the class all attendees will be able to log in
-and do the exercises on the cluster of your choice, and that this cluster has the necessary setup and
-software.
+Compute Canada production clusters or simulated clusters inside a VM. Please prepare your setup well
+before the school begins: it is your own responsibility to make sure that in the class all attendees can
+log in and follow exercises on the cluster of your choice, and that this cluster has the necessary setup
+and software.
 
 ## Cedar and Graham
 
-For this summer school, we will have reservations and guest accounts on Cedar and Graham. On production
-clusters, we prefer all attendees to use their own Compute Canada accounts during the school, however,
-some attendees will not have accounts, hence guest accounts.
+### Guest accounts
+
+For this summer school, we have prepared 120 guest accounts and reservations on Cedar and Graham. On
+these two clusters, we prefer all attendees to use their own Compute Canada accounts during the school,
+however, some will not have an account, hence guest accounts. We will be providing guest accounts on
+small slips of paper before the beginning of your class.
+
+### Reservations
 
 All real account holders will need to be added to the reservation. We will try to add all registrants
 with confirmed accounts before the start of the school, but since we are working with partial
-information, some attendees will need to be added on the fly during your course. The school organizers
-will have to add them by hand. If you expect this, please coordinate with Alex Razoumov in advance.
+information, school organizers will need to add some attendees on the fly during your course. We will be
+coordinating this before your class.
 
-Production clusters can be down for maintenance work (this has happened with us in the past with little
-previous warning), the scheduler or one of the parallel file systems can be overwhelmed with too many
-requests and thus not be available. In other words, a production system is not guaranteed to be available
-for demos and training 24/7.
+Please note that Compute Canada production clusters can be down for emergency maintenance work (this has
+happened with us in the past with little previous warning), the scheduler or one of the parallel file
+systems can be overwhelmed with too many requests, etc. In other words, a production system is not
+guaranteed to be available for demos and training 24/7, so make sure you have a backup.
 
 ## Training cluster in an Arbutus VM
 
