@@ -23,10 +23,18 @@ small slips of paper before the beginning of your class.
 
 ### Reservations
 
-All real account holders will need to be added to the reservation. We will try to add all registrants
-with confirmed accounts before the start of the school, but since we are working with partial
-information, school organizers will need to add some attendees on the fly during your course. We will be
-coordinating this before your class.
+For the summer school, we have created Slurm reservations on Cedar and Graham. To run jobs under these
+reservations, please use (and pass to your audience) the following Slurm flags:
+
+```
+--account=ucss19-wa_cpu --reservation=ucss19-wr_cpu
+```
+
+Please note that these reservations will start on Sunday (May-26) morning, one day early for testing. All
+real account holders will need to be added to the reservation. We will try to add all registrants with
+confirmed accounts before the start of the school, but since we are working with partial information, we
+might need to add some attendees on the fly during your course. We will be coordinating this before your
+class.
 
 Please note that Compute Canada production clusters can be down for emergency maintenance work (this has
 happened with us in the past with little previous warning), the scheduler or one of the parallel file
