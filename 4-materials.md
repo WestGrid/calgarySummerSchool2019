@@ -6,6 +6,9 @@ nav: true
 
 We will be gradually adding course materials to this page as we receive them from the instructors.
 
+- Nearest Neighbours in Python with scikit-learn: [lesson notes]({{ site.baseurl
+  }}/materials/Classification-with-python-Exercises.docx) and [datasets]({{ site.baseurl
+  }}/materials/Datasets-classification-python.zip)
 <!-- - Bash Scripting and Tools: <a href="http://bit.ly/bashmd" target="_blank">online lesson notes</a> -->
 <!-- - Introduction to high-performance computing (HPC): [ZIP file](http://bit.ly/introhpc) with slides and codes -->
 <!-- - Scientific Visualization: [ZIP file](http://bit.ly/paraviewzip) with slides, scripts, and sample datasets -->
