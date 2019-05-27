@@ -27,4 +27,4 @@ remote SSH client installed (on Windows laptops we recommend <a
 href="https://mobaxterm.mobatek.net/download.html" target="_blank">the free edition of MobaXterm</a>; on Mac and Linux
 laptops no need to install anything).
 
-**Data and Presentation**: <a href="working_with_text_presentation_and_data 2.zip">Download File</a>
+**Data and Presentation**: [Download File]({{ site.baseurl }}/materials/working_with_text_presentation_and_data_2.zip)

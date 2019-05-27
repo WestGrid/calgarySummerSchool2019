@@ -7,7 +7,7 @@ nav: true
 We will be gradually adding course materials to this page as we receive them from the instructors.
 
 - Bash Scripting and Tools: <a href="http://bit.ly/bashmd" target="_blank">online lesson notes</a>
-- Working with Text Data: [ZIP file]({{ site.baseurl }}/working_with_text_presentation_and_data.zip) with
+- Working with Text Data: [ZIP file]({{ site.baseurl }}/materials/working_with_text_presentation_and_data_2.zip) with
   data and presentation
 - Nearest Neighbours in Python with scikit-learn: [lesson notes]({{ site.baseurl
   }}/materials/Classification-with-python-Exercises.docx) and [datasets]({{ site.baseurl
