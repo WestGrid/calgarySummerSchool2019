@@ -12,7 +12,8 @@ We will be gradually adding course materials to this page as we receive them fro
 - Nearest Neighbours in Python with scikit-learn: [lesson notes]({{ site.baseurl
   }}/materials/Classification-with-python-Exercises.docx) and [datasets]({{ site.baseurl
   }}/materials/Datasets-classification-python.zip)
-<!-- - Introduction to high-performance computing (HPC): [ZIP file](http://bit.ly/introhpc) with slides and codes -->
+- Introduction to high-performance computing (HPC):
+  [ZIP file](https://owncloud.westgrid.ca/index.php/s/VCD8Pogqmk7eS16/download) with slides and codes
 <!-- - Scientific Visualization: [ZIP file](http://bit.ly/paraviewzip) with slides, scripts, and sample datasets -->
 <!-- - Chapel parallel programming: [slides](http://bit.ly/chapeltop), notes for <a -->
 <!--   href="http://bit.ly/2CDRuxQ" target="_blank">base language</a>, notes for <a -->
