@@ -18,3 +18,4 @@ We will be gradually adding course materials to this page as we receive them fro
 <!--   href="http://bit.ly/2CDHCUS" target="_blank">task parallelism</a>, and notes for <a -->
 <!--   href="http://bit.ly/2CC8MLW" target="_blank">data parallelism</a> -->
 - MATLAB Parallel Computing: [ZIP file]({{ site.baseurl }}/materials/MATLAB-Parallel-Computing-Workshop.zip) with slides and exercises
+- Python Libraries for Researchers: [Download File]({{ site.baseurl }}/materials/python_libraries_v2.pdf)
