@@ -18,9 +18,10 @@ We will be gradually adding course materials to this page as we receive them fro
 
 ### High-performance computing and programming
 
-- Introduction to high-performance computing (HPC): [ZIP file](https://owncloud.westgrid.ca/index.php/s/VCD8Pogqmk7eS16/download) with slides and codes
+- Introduction to high-performance computing (HPC): [ZIP file](https://owncloud.westgrid.ca/index.php/s/VCD8Pogqmk7eS16/download) with the slides and codes
 - Introduction to C (and pointers) for Python Programmers: [gzipped TAR file]({{ site.baseurl }}/materials/C-Cpp-for-Python-final.tar.gz) with the slides and source codes
-- Python Libraries for Researchers: [Download File]({{ site.baseurl }}/materials/python_libraries_v2.pdf)
+- Speeding up Python code with C/C++: [gzipped TAR file]({{ site.baseurl }}/materials/Python-with-Cpp-final.tar.gz) with the slides and source codes
+- Python Libraries for Researchers: [PDF slides]({{ site.baseurl }}/materials/python_libraries_v2.pdf)
 - Chapel parallel programming: [PDF slides](https://github.com/razoumov/publish/raw/master/chapel.pdf), notes for <a href="https://github.com/razoumov/publish/blob/master/01-base.md" target="_blank">base language</a>, notes for <a href="https://github.com/razoumov/publish/blob/master/02-task-parallelism.md" target="_blank">task parallelism</a>, and notes for <a href="https://github.com/razoumov/publish/blob/master/03-domain-parallelism.md" target="_blank">data parallelism</a>
 - MATLAB Parallel Computing: [ZIP file]({{ site.baseurl }}/materials/MATLAB-Parallel-Computing-Workshop.zip) with slides and exercises
 
