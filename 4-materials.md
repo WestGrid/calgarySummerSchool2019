@@ -15,7 +15,7 @@ We will be gradually adding course materials to this page as we receive them fro
 - Working with Text Data: [ZIP file]({{ site.baseurl }}/materials/working_with_text_presentation_and_data_2.zip) with data and presentation
 - Introduction to Apache Spark: [Jupyter notebook]({{ site.baseurl }}/materials/introToSpark2019.ipynb) with Python code
 - Scientific Visualization: [ZIP file](https://owncloud.westgrid.ca/index.php/s/yG9xbsYLbLymvdZ/download) with slides, scripts, and sample datasets
-- Working with Spatial Data: [PDF slides]({{ site.baseurl }}/materials/Working_with_Spatial_data.pdf)
+- Working with Spatial Data: [PDF slides]({{ site.baseurl }}/materials/Working_with_Spatial_datav2.pdf)
 
 ### High-performance computing and programming
 
