@@ -88,21 +88,3 @@ know early on.
 
 Please check the online description of your course in the program and let us know if you want to add or
 change anything.
-
-<!-- ## Using reservations on Cedar and Graham -->
-
-<!-- To use the summer school reservations on the clusters, in addition to all other flags, you will need to -->
-<!-- pass the following flags to Slurm: -->
-
-<!-- * for CPU jobs: -->
-<!-- ~~~ {.bash} -->
-<!-- --account=wgssubc-wa_cpu --reservation=wgssubc-wr_cpu -->
-<!-- ~~~ -->
-
-<!-- * for GPU jobs  -->
-<!-- ~~~ {.bash} -->
-<!-- --gres=gpu:1 --account=wgssubc-wa_gpu --reservation=wgssubc-wr_gpu -->
-<!-- ~~~ -->
-
-<!-- All instructors, registered attendees with CC accounts, and all guest accounts have been added to the -->
-<!-- reservations. If you need to add anyone else to a reservation, please contact Alex Razoumov. -->
