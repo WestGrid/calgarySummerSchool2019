@@ -31,7 +31,7 @@ We will be gradually adding course materials to this page as we receive them fro
 - Introduction to Python: [PowerPoint slides]({{ site.baseurl }}/materials/pythonWarmup.pptx)
 - Regression Classifiers with Python: [first Jupyter notebook]({{ site.baseurl }}/materials/classifiersInPython.ipynb), [second Jupyter notebook]({{ site.baseurl }}/materials/classifiersInPythonAuriol.ipynb), and [PowerPoint slides]({{ site.baseurl }}/materials/regressionInPythonSarhan.pptx)
 - Nearest Neighbours in Python with scikit-learn: [lesson notes]({{ site.baseurl }}/materials/Classification-with-python-Exercises.docx) and [datasets]({{ site.baseurl }}/materials/Datasets-classification-python.zip)
-- Read Data Issues and How to Handle Them:[ZIP file]({{ site.baseurl }}/materials/IBM_data.zip)  
+- Real Data Issues and How to Handle Them: [ZIP file]({{ site.baseurl }}/materials/IBM_data.zip) with data
 - Practical Applications of Deep Learning with MATLAB:
   [ZIP file](https://owncloud.westgrid.ca/index.php/s/1FAOGguOWHuTp2Z/download) with slides and other
   files. Some of the larger files were excluded to keep the file size small. If you want these large
